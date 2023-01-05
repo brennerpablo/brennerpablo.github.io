@@ -1,9 +1,18 @@
 body {
     font-family: "Roboto", sans-serif;
+    margin: 0px;
+    height: 100%;
 }
   
 .container {
-    border-radius: 10px;
-    border-color: 'black';
+    background:'#bdc3c7';
+    
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+
     text-align: center;
+
 }
